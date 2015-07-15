@@ -7,7 +7,23 @@
     "longName": "the basics - conditionals",
     "projectType": "native",
     "resources": {
-        "media": []
+        "media": [
+            {
+                "file": "images/robit-Whistle.png",
+                "name": "ROBIT_WHISTLE",
+                "type": "png"
+            },
+            {
+                "file": "images/robit-R.png",
+                "name": "ROBIT_RIGHT",
+                "type": "png"
+            },
+            {
+                "file": "images/robit-L.png",
+                "name": "ROBIT_LEFT",
+                "type": "png"
+            }
+        ]
     },
     "sdkVersion": "3",
     "shortName": "the basics - conditionals",
